@@ -30,6 +30,8 @@ class ConvertToMultiChannelBasedOnBratsClassesd(MapTransform):
 ### Training 
 ---
 For the training, I used [monai](https://monai.io/) and [MedPy](https://loli.github.io/medpy/) libraries. For the accurate results, I used 5-fold cross validations. 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/hamny88/3DUnetBraTS/blob/master/BraTS_3D_Unet_ipynb.ipynb]
+
 
 * Loss function: DiceLoss
 * Optimizer: Adam 
