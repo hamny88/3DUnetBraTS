@@ -42,7 +42,7 @@ For the training, I used [monai](https://monai.io/) and [MedPy](https://loli.git
 ![vlidation graph](images/validation.png "validation graphs")
 
 These are the segmentation results 
-![Results](images/results.png "Results")
+![Results](images/Results.png "Results")
 
 * Metric on original image spacing: 0.7139434218406677
 * metric on TC: 0.7663
